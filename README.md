@@ -72,6 +72,7 @@
 
 | Tool | Description | License | GitHub |
 |------|-------------|---------|--------|
+| [AI Model Gateway](https://ssc-studio.github.io/Ai-Model-Gateway/) | Self-hosted LLM operations gateway with OpenAI-compatible routing, provider fallback, telemetry, benchmarking, config publishing, and rollback; bring your own upstream providers | MIT | [GitHub](https://github.com/SSC-STUDIO/Ai-Model-Gateway) |
 | [Langfuse](https://langfuse.com) | Open-source LLM observability — traces, evals, prompt management, and cost tracking | MIT | [GitHub](https://github.com/langfuse/langfuse) |
 | [Phoenix (Arize)](https://phoenix.arize.com) | AI observability for LLMs and ML models — experiment tracking and hallucination detection | Elastic-2.0 | [GitHub](https://github.com/Arize-ai/phoenix) |
 | [PromptLayer](https://promptlayer.com) | Prompt versioning, A/B testing, and request logging for LLM apps | Proprietary | — |
