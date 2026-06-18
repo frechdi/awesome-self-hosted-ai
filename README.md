@@ -75,6 +75,7 @@
 | [Langfuse](https://langfuse.com) | Open-source LLM observability — traces, evals, prompt management, and cost tracking | MIT | [GitHub](https://github.com/langfuse/langfuse) |
 | [Phoenix (Arize)](https://phoenix.arize.com) | AI observability for LLMs and ML models — experiment tracking and hallucination detection | Elastic-2.0 | [GitHub](https://github.com/Arize-ai/phoenix) |
 | [PromptLayer](https://promptlayer.com) | Prompt versioning, A/B testing, and request logging for LLM apps | Proprietary | — |
+| [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents. | Apache-2.0 | [GitHub](https://github.com/future-agi/future-agi) |
 
 ---
 
