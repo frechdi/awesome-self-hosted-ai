@@ -49,6 +49,7 @@
 | [Cheshire Cat](https://cheshirecat.ai) | AI agent framework — custom memory, plugins, and REST API out of the box | GPL-3.0 | [GitHub](https://github.com/cheshire-cat-ai/core) |
 | [Lobe Chat](https://lobehub.com/chat) | Extensible AI chat platform — plugin system, knowledge base, multi-model | Apache-2.0 | [GitHub](https://github.com/lobehq/lobe-chat) |
 | [BerriAI LiteLLM](https://litellm.ai) | Unified API proxy for 100+ LLM providers — OpenAI-compatible, with load balancing and spend tracking | MIT | [GitHub](https://github.com/BerriAI/litellm) |
+| [qq-ai-bot](https://happysnaker.github.io/qq-ai-bot/) | Self-hosted QQ ↔ AI bot scaffold for OneBot 11 / NapCat / LLOneBot with ACP-compatible agents, persistent sessions, progress streaming, and Docker quickstart | MIT | [GitHub](https://github.com/happysnaker/qq-ai-bot) |
 
 ---
 
