@@ -121,6 +121,7 @@
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Comprehensive list of LLM papers, tools, and frameworks |
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Contributing
 
