@@ -49,6 +49,7 @@
 | [Cheshire Cat](https://cheshirecat.ai) | AI agent framework — custom memory, plugins, and REST API out of the box | GPL-3.0 | [GitHub](https://github.com/cheshire-cat-ai/core) |
 | [Lobe Chat](https://lobehub.com/chat) | Extensible AI chat platform — plugin system, knowledge base, multi-model | Apache-2.0 | [GitHub](https://github.com/lobehq/lobe-chat) |
 | [BerriAI LiteLLM](https://litellm.ai) | Unified API proxy for 100+ LLM providers — OpenAI-compatible, with load balancing and spend tracking | MIT | [GitHub](https://github.com/BerriAI/litellm) |
+| [Hivekeep](https://hivekeep.app) | Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate and build their own tools, mini-apps, and plugins; reachable over Telegram, Slack, Discord, and Matrix; single container (Bun + SQLite) | MIT | [GitHub](https://github.com/MarlBurroW/hivekeep) |
 
 ---
 
