@@ -32,6 +32,7 @@
 | [Open WebUI](https://openwebui.com) | Feature-rich browser UI for Ollama and OpenAI-compatible APIs | MIT | [GitHub](https://github.com/open-webui/open-webui) |
 | [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | The original local LLM UI — supports virtually every model format and inference backend | AGPL-3.0 | [GitHub](https://github.com/oobabooga/text-generation-webui) |
 | [LibreChat](https://librechat.ai) | Multi-provider AI chat UI — supports OpenAI, Anthropic, Ollama, and local models | MIT | [GitHub](https://github.com/danny-avila/LibreChat) |
+| [Atomic Agent](https://atomicagent.io) | Local-first CLI and TUI coding agent — runs open-weight models entirely on your machine through a llama.cpp fork, with 56 built-in tools and MCP support; still a developer preview, so APIs and config are moving | MIT | [GitHub](https://github.com/AtomicBot-ai/atomic-agent) |
 
 ---
 
