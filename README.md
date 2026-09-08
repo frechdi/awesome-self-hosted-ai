@@ -32,6 +32,7 @@
 | [Open WebUI](https://openwebui.com) | Feature-rich browser UI for Ollama and OpenAI-compatible APIs | MIT | [GitHub](https://github.com/open-webui/open-webui) |
 | [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | The original local LLM UI — supports virtually every model format and inference backend | AGPL-3.0 | [GitHub](https://github.com/oobabooga/text-generation-webui) |
 | [LibreChat](https://librechat.ai) | Multi-provider AI chat UI — supports OpenAI, Anthropic, Ollama, and local models | MIT | [GitHub](https://github.com/danny-avila/LibreChat) |
+| [llamaMan](https://github.com/nullata/llamaman) | Web UI + API for running multiple llama.cpp server instances across one machine or in a cluster; Ollama and OpenAI-compatible APIs, drop-in for Open WebUI; spawns llama.cpp containers over the Docker socket so llama.cpp is a swappable dependency | Elastic License 2.0 (source-available) | [GitHub](https://github.com/nullata/llamaman) |
 
 ---
 
