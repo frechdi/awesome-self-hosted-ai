@@ -6,6 +6,7 @@
 
 - [LLM Inference & Local Hosting](#llm-inference--local-hosting)
 - [AI Workflow & Automation](#ai-workflow--automation)
+- [Meeting Assistants](#meeting-assistants)
 - [Vector Databases & RAG](#vector-databases--rag)
 - [AI Observability & Ops](#ai-observability--ops)
 - [VPS Providers for AI Workloads](#vps-providers-for-ai-workloads)
@@ -49,6 +50,16 @@
 | [Cheshire Cat](https://cheshirecat.ai) | AI agent framework — custom memory, plugins, and REST API out of the box | GPL-3.0 | [GitHub](https://github.com/cheshire-cat-ai/core) |
 | [Lobe Chat](https://lobehub.com/chat) | Extensible AI chat platform — plugin system, knowledge base, multi-model | Apache-2.0 | [GitHub](https://github.com/lobehq/lobe-chat) |
 | [BerriAI LiteLLM](https://litellm.ai) | Unified API proxy for 100+ LLM providers — OpenAI-compatible, with load balancing and spend tracking | MIT | [GitHub](https://github.com/BerriAI/litellm) |
+
+---
+
+## Meeting Assistants
+
+*Record, transcribe, and summarize meetings on your own infrastructure.*
+
+| Tool | Description | License | GitHub |
+|------|-------------|---------|--------|
+| [Botik](https://github.com/777genius/discord-meeting-assistant) | Self-hosted Discord meeting assistant — records voice calls, posts transcripts and summaries, and answers questions about the meeting | Apache-2.0 | [GitHub](https://github.com/777genius/discord-meeting-assistant) |
 
 ---
 
