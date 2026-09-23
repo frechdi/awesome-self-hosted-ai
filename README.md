@@ -32,6 +32,7 @@
 | [Open WebUI](https://openwebui.com) | Feature-rich browser UI for Ollama and OpenAI-compatible APIs | MIT | [GitHub](https://github.com/open-webui/open-webui) |
 | [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | The original local LLM UI — supports virtually every model format and inference backend | AGPL-3.0 | [GitHub](https://github.com/oobabooga/text-generation-webui) |
 | [LibreChat](https://librechat.ai) | Multi-provider AI chat UI — supports OpenAI, Anthropic, Ollama, and local models | MIT | [GitHub](https://github.com/danny-avila/LibreChat) |
+| [sunshine](https://github.com/jajmangold/sunshine) | Model-agnostic substrate for small local LLMs with argmax scoring for structured decisions, memory recall, and kernel orchestration | MIT | [GitHub](https://github.com/jajmangold/sunshine) |
 
 ---
 
