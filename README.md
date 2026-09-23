@@ -102,6 +102,7 @@
 | [Lambda Labs](https://lambdalabs.com) | Dedicated GPU instances — H100, A100, A10 | From $0.50/hr | On-demand and reserved instances |
 | [Vast.ai](https://vast.ai) | Cheapest GPU rentals — peer-to-peer GPU marketplace | From $0.10/hr | Variable reliability; best for experiments |
 | [RunPod](https://www.runpod.io) | Balance of price and reliability — serverless GPU | From $0.19/hr | Serverless option is excellent for burst workloads |
+| [Lium](https://lium.io) | GPU marketplace — whole NVIDIA hosts from independent providers, RTX 3090 to B300 | From $0.16/hr | Billed per second, no minimum; live prices in a public JSON feed |
 | [Paperspace](https://www.paperspace.com) | ML-focused cloud — good Jupyter and notebook experience | From $0.07/hr | Gradient notebooks included |
 | [CoreWeave](https://www.coreweave.com) | Enterprise GPU cloud — H100 clusters at scale | Contact for pricing | Kubernetes-native, used by major AI labs |
 
