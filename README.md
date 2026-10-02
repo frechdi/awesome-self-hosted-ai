@@ -49,6 +49,7 @@
 | [Cheshire Cat](https://cheshirecat.ai) | AI agent framework — custom memory, plugins, and REST API out of the box | GPL-3.0 | [GitHub](https://github.com/cheshire-cat-ai/core) |
 | [Lobe Chat](https://lobehub.com/chat) | Extensible AI chat platform — plugin system, knowledge base, multi-model | Apache-2.0 | [GitHub](https://github.com/lobehq/lobe-chat) |
 | [BerriAI LiteLLM](https://litellm.ai) | Unified API proxy for 100+ LLM providers — OpenAI-compatible, with load balancing and spend tracking | MIT | [GitHub](https://github.com/BerriAI/litellm) |
+| [Sillage](https://github.com/MarlBurroW/sillage) | Mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine; sessions outlive the client, full-text search, IDE panel, a board agents read via its own MCP server, installable PWA. Needs your own CLI install and API access | MIT | [GitHub](https://github.com/MarlBurroW/sillage) |
 
 ---
 
