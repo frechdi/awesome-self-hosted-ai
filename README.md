@@ -104,6 +104,7 @@
 | [RunPod](https://www.runpod.io) | Balance of price and reliability — serverless GPU | From $0.19/hr | Serverless option is excellent for burst workloads |
 | [Paperspace](https://www.paperspace.com) | ML-focused cloud — good Jupyter and notebook experience | From $0.07/hr | Gradient notebooks included |
 | [CoreWeave](https://www.coreweave.com) | Enterprise GPU cloud — H100 clusters at scale | Contact for pricing | Kubernetes-native, used by major AI labs |
+| [CloudGPU](https://cloudgpu.app/) | Training, inference, and ComfyUI on RTX 4090/5090 | [Live catalog](https://cloudgpu.app/) | GPU rental for self-managed workloads; check workload memory fit and the current configuration in the catalog |
 
 ---
 
